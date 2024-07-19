@@ -15,7 +15,7 @@
     <repositories>
        <repository>
            <id>test-maven-repo</id>
-           <url>http://192.168.1.76:8081/artifactory/libs-release-local</url>
+           <url>http://192.168.1.197:8081/artifactory/libs-release-local</url>
        </repository>
     </repositories>
 
